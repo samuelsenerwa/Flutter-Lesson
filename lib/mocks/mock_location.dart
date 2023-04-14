@@ -9,7 +9,7 @@ class MockLocation extends Location {
     return Location(
         name: "Arashiyama Bamboo Grove, Japan",
         url:
-            'https://photos.smugmug.com/i-hFcX6RC/0/1c58ee68/L/famous-bamboo-grove-arashiyama-L.jpg',
+            'https://photos.smugmug.com/i-hFcX6RC/0/1c58ee68/L/famous-bamboo-grove-arashiyama-L.jpg',//image url
         facts: <LocationFact>[
           LocationFact(
               title: 'Summary',

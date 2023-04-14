@@ -8,3 +8,4 @@ void main() {
 
   return runApp( MaterialApp(home: LocationDetail(mockLocation)));
 }
+
