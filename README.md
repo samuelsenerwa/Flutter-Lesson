@@ -22,3 +22,7 @@ This repository contains every detail of the course that I taught for the GWS co
 - Custom AppBars
 - Custom ListViews
 - Detail Screen
+
+## Images
+
+![famous-bamboo-grove-arashiyama-L](https://user-images.githubusercontent.com/66512735/231963600-bf86b954-a46d-4396-bca3-b025457cb2f7.jpg)
